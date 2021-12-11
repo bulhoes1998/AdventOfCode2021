@@ -27,4 +27,4 @@ const checkIncrease = function (arr) {
     return x;
 }
 
-console.log(checkIncrease(somaArray(listData, 1)));
+console.log(checkIncrease(somaArray(listData, 3)));
